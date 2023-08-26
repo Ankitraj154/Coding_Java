@@ -1,0 +1,39 @@
+#bbcon{
+background-color: aquamarine;
+/* height: 330px;
+width:auto; */
+border-radius: 5px;
+border-style: dotted;
+border-width: 2px;
+border-color: blueviolet;
+background-image: url(a.jpeg);
+background-position: center ;
+background-size: cover;
+
+
+}
+.bbcon
+{
+background-color: bisque;
+border-top: 3px double pink;
+
+
+
+}
+h3{
+text-align: center;
+font-style: bold;
+color: cadetblue;
+font-size: large;
+
+}
+span{
+    height: 100px;
+    width: 400px;
+    
+     
+}
+div{
+    color: red;
+    font-style: italic;
+}

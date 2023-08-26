@@ -1,0 +1,30 @@
+#redcolor{
+    color: red;
+   /* id selector symbol (#)*/
+}
+
+.graycolor{
+    color: blue;
+     /* class selector symbol (.)*/
+}
+
+.bgchange
+{
+    background-color: red;
+    /* class selector symbol (.)*/
+}
+h1{
+    align-items: center;
+    color: darkgrey;
+      /* element selector like h1 p div and so on */
+
+}
+span,footer{
+    background-color: green;
+     /* grouping selector */
+}
+p{
+    border: 2px solid black;
+}
+
+
